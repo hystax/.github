@@ -1,6 +1,6 @@
-# Hystax – MLOps and FinOps solution provider 
+# Hystax – FinOps and MLOps solution provider 
 
-[Hystax](https://hystax.com), the leading MLOps and FinOps solution provider, develops its flagship product, OptScale, which gives an opportunity to run ML/AI or any type of workloads with optimal performance and infrastructure cost by profiling ML jobs, running automated experiments and analyzing cloud usage.
+[Hystax](https://hystax.com), the leading FinOps and MLOps solution provider, develops its flagship product, OptScale, which gives an opportunity to run ML/AI or any type of workloads with optimal performance and infrastructure cost by profiling ML jobs, running automated experiments and analyzing cloud usage.
 
 ## Hystax mission 
 
