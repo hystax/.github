@@ -1,33 +1,45 @@
-# Hystax – FinOps and MLOps solution provider 
+# Hystax — FinOps, AI governance, cloud migration, disaster recovery and backup
 
-[Hystax](https://hystax.com), the leading FinOps and MLOps solution provider, develops its flagship product, OptScale, which gives an opportunity to run ML/AI or any type of workloads with optimal performance and infrastructure cost by profiling ML jobs, running automated experiments and analyzing cloud usage.
+[Hystax](https://hystax.com) is a leading provider of software that helps companies cut cloud and AI costs, govern AI usage, migrate workloads between clouds and protect them with disaster recovery and backup. A member of the [Linux Foundation](https://hystax.com/hystax-joins-linux-foundation/), Hystax develops three flagship products: OptScale, OptScale AI and Hystax Acura.
 
-## Hystax mission 
+## Hystax mission
 
-Our mission is to help companies optimize the performance and cost of ML model training jobs and increase the number of experiments an ML engineer can run.
+Our mission is to make clouds affordable and reliable, and every dollar of AI spend traceable to a delivered result. We give companies full control over what they run, what it costs and what it does — from a single virtual machine to an autonomous AI agent.
 
-Hystax is currently the solution of choice for such iconic brands as PwC, Ives Rocher, Nokia, DHL, and Airbus for its FinOps/MLOps adoption, offering them a platform that promotes complete cloud cost visibility and countless optimization recommendations.
+## Hystax flagship solutions
 
-## Hystax flagship solution – OptScale 
+### OptScale — FinOps and cloud cost optimization
 
-Access to the OptScale open source solution is granted to users by the Apache 2.0 license. This enables Hystax to deliver the OptScale platform to a wider range of ML & Data engineers, cloud capacity managers, and FinOps enthusiasts.
+Open-source FinOps platform that finds and cuts cloud waste across AWS, Azure, Google Cloud, Alibaba Cloud and Kubernetes. Licensed under Apache 2.0.
 
-Hystax OptScale provides the following key capabilities:
-- ML metrics and transparency across ML/AI teams
-- Performance optimization by integrating with ML/AI models by highlighting bottlenecks and providing clear performance and cost recommendations
-- ML/AI task profiling
-- Cloud cost optimization with dozens of scenarios like rightsizing, Reserved/Spot instances, Saving Plans, etc.
-- Runsets - you specify a budget and a set of hyperparameters and OptScale runs a bunch of experiments based on different hardware (leveraging Reserved/Spot instances), datasets, and hyperparameters to give the best results
-- Spark integration
+Key capabilities:
 
-OptScale is available for on-premise deployment and as SaaS at [https://my.optscale.com](https://my.optscale.com).
+- Idle and unused resource detection, rightsizing recommendations
+- Reserved Instance, Savings Plan and Spot utilization analysis
+- Budgets, anomaly alerts and cost allocation by team and project
+- Kubernetes cost allocation per namespace and workload
+- Power schedules that stop non-production resources after hours
 
-## Other solutions 
+Available on-premises from [source code](https://github.com/hystax/optscale) or as SaaS at [my.optscale.com](https://my.optscale.com) · [Live demo](https://my.optscale.com/live-demo) · [How to contribute](https://github.com/hystax/optscale/blob/integration/CONTRIBUTING.md) · [Learn more](https://hystax.com/optscale/finops-overview/)
 
-Hystax Acura – Live cloud migration, cross-cloud disaster recovery, and cloud backup from any-to-any cloud platform. Agentless replication, Disaster Recovery, and migration plans are available on cloud marketplaces.
+### OptScale AI — AI ROI and AI governance
 
-Find more details [here](https://hystax.com/cdn/Hystax/Whitepapers/Hystax-Acura-Product-Description.pdf)
+AI ROI and governance platform that shows what AI spend delivers and keeps every prompt and agent under control. Cost per merged pull request, not cost per token.
 
-Reach out with questions, feedback, or ideas. We are always happy to connect!
+Key capabilities:
 
-info@hystax.com
+- **AI ROI** — links AI spend to merged PRs, features and tickets in GitHub and Jira
+- **AI Gateway** — one entry point for public LLMs, self-hosted models and MCP servers, with 2 ms routing overhead
+- **Cost optimization** — token compression, cache alignment and model arbitrage: up to 60% lower AI spend, depending on workload
+- **Security and guardrails** — PII redaction, content filtering and data loss prevention on every prompt
+- **Agent control** — cost, time and recursion limits, with loop and drift detection
+
+Available as SaaS or on-premises, including air-gapped · [Try free](https://my.optscale.ai/register) · [Live demo](https://my.optscale.ai/live-demo) · [Learn more](https://optscale.ai)
+
+### Hystax Acura — cloud migration, disaster recovery and backup
+
+Live any-to-any cloud migration, cross-cloud disaster recovery and backup for VMware, KVM, OpenStack, Red Hat OpenShift Virtualization, public clouds and bare metal. Average cutover of 1–3 minutes, RPO in seconds and near-zero RTO; 240,000+ machines migrated and 45,000+ protected. [Learn more](https://hystax.com)
+
+## Connect with us
+
+Reach out with questions, feedback or ideas — we are always happy to connect: [info@hystax.com](mailto:info@hystax.com)
