@@ -1,6 +1,6 @@
 # Hystax — FinOps, AI governance, cloud migration, disaster recovery and backup
 
-[Hystax](https://hystax.com) is a leading provider of software that helps companies cut cloud and AI costs, govern AI usage, migrate workloads between clouds and protect them with disaster recovery and backup. A member of the [Linux Foundation](https://hystax.com/hystax-joins-linux-foundation/), Hystax develops three flagship products: OptScale, OptScale AI and Hystax Acura.
+[Hystax](https://hystax.com) is a leading provider of software that helps companies cut cloud and AI costs, govern AI usage, migrate workloads between clouds and protect them with disaster recovery and backup. A member of the [Linux Foundation](https://hystax.com/hystax-joins-linux-foundation/), Hystax develops three flagship products: OptScale, OptScale AI and Hystax Platform.
 
 ## Hystax mission
 
@@ -36,7 +36,7 @@ Key capabilities:
 
 Available as SaaS or on-premises, including air-gapped · [Try free](https://my.optscale.ai/register) · [Live demo](https://my.optscale.ai/live-demo) · [Learn more](https://optscale.ai)
 
-### Hystax Acura — cloud migration, disaster recovery and backup
+### Hystax Platform — cloud migration, disaster recovery and backup
 
 Live any-to-any cloud migration, cross-cloud disaster recovery and backup for VMware, KVM, OpenStack, Red Hat OpenShift Virtualization, public clouds and bare metal. Average cutover of 1–3 minutes, RPO in seconds and near-zero RTO; 240,000+ machines migrated and 45,000+ protected. [Learn more](https://hystax.com)
 
